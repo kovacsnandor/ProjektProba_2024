@@ -10,6 +10,9 @@ namespace ValamiProjekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Heló");
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\bin\Debug\ValamiProjekt.exe.config
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\bin\Debug\ValamiProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\bin\Debug\ValamiProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\obj\Debug\ValamiProjekt.csproj.AssemblyReference.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\obj\Debug\ValamiProjekt.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\obj\Debug\ValamiProjekt.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\obj\Debug\ValamiProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\Projektek\ProjektProba_2024\ValamiProjekt\ValamiProjekt\obj\Debug\ValamiProjekt.pdb
